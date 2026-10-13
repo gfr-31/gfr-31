@@ -31,7 +31,7 @@ Beberapa project yang pernah saya buat untuk latihan dan eksplorasi:
 
 | Nama Project | Deskripsi | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **My Prayer App** | Aplikasi mobile kumpulan doa-doa pribadi yang dilengkapi fitur tambah, edit, dan kelola doa harian. | React Native, JavaScript | [Repo]([https://github.com/gfr-31](https://github.com/gfr-31/my-prayer-app-android)) |
+| **My Prayer App** | Aplikasi mobile kumpulan doa-doa pribadi yang dilengkapi fitur tambah, edit, dan kelola doa harian. | React Native, JavaScript | [Repo](https://github.com/gfr-31/my-prayer-app-android) |
 
 ---
 
