@@ -1,6 +1,6 @@
 <!-- Navigasi Bahasa -->
 <div align="right">
-  <a href="README.md">🇮🇩 ID</a> | <a href="README_EN.md">🇬🇧 EN</a>
+  <a href="https://github.com/gfr-31/gfr-31/blob/main/README.md">🇮🇩 ID</a> | <a href="https://github.com/gfr-31/gfr-31/blob/main/README_EN.md">🇬🇧 EN</a>
 </div>
 
 <div align="center">
