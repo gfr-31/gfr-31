@@ -21,7 +21,7 @@ Berikut adalah teknologi yang biasa dan sedang saya pelajari:
 
 * **Frontend & Mobile:** JavaScript (ES6+), React.js, React Native, Tailwind CSS, HTML5, CSS3
 * **Backend & Framework:** PHP, Laravel, Node.js (Basic)
-* **Tools & Version Control:** Git, GitHub, VS Code, Vercel, Linux Environment
+* **Tools & Version Control:** Git, GitHub, VS Code, Vercel
 
 ---
 
@@ -31,9 +31,7 @@ Beberapa project yang pernah saya buat untuk latihan dan eksplorasi:
 
 | Nama Project | Deskripsi | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **My Prayer App** | Aplikasi mobile kumpulan doa-doa pribadi yang dilengkapi fitur tambah, edit, dan kelola doa harian. | React Native, JavaScript | [Repo](https://github.com/gifrancirebon) |
-| **OrderIn** | Aplikasi pemesanan sederhana untuk latihan deployment dan manajemen state. | React, Tailwind, Vercel | [Repo](https://github.com/gifrancirebon) |
-| **Tugas Algoritma** | Kumpulan penyelesaian studi kasus dan tugas algoritma perkuliahan. | JavaScript / PHP | [Repo](https://github.com/gifrancirebon) |
+| **My Prayer App** | Aplikasi mobile kumpulan doa-doa pribadi yang dilengkapi fitur tambah, edit, dan kelola doa harian. | React Native, JavaScript | [Repo](https://github.com/gfr-31) |
 
 ---
 
@@ -53,4 +51,4 @@ Beberapa project yang pernah saya buat untuk latihan dan eksplorasi:
 
 * **Email:** gifrancirebon@gmail.com
 * **Instagram:** [@_fazreall](https://instagram.com/_fazreall)
-* **GitHub:** [@gifrancirebon](https://github.com/gifrancirebon)
+* **GitHub:** [@gfr-31](https://github.com/gfr-31)
