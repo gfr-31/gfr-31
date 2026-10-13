@@ -21,7 +21,7 @@ Technologies and tools I use and am currently learning:
 
 * **Frontend & Mobile:** JavaScript (ES6+), React.js, React Native, Tailwind CSS, HTML5, CSS3
 * **Backend & Framework:** PHP, Laravel, Node.js (Basic)
-* **Tools & Version Control:** Git, GitHub, VS Code, Vercel, Linux Environment
+* **Tools & Version Control:** Git, GitHub, VS Code, Vercel
 
 ---
 
@@ -31,20 +31,18 @@ Some of the projects I've built for practice and exploration:
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **My Prayer App** | A mobile application for personal daily prayers with custom add and edit features. | React Native, JavaScript | [Repo](https://github.com/gifrancirebon) |
-| **OrderIn** | A simple ordering app built for deployment practice and state management. | React, Tailwind, Vercel | [Repo](https://github.com/gifrancirebon) |
-| **Algorithm Tasks** | A collection of case studies and algorithm coursework assignments. | JavaScript / PHP | [Repo](https://github.com/gifrancirebon) |
+| **My Prayer App** | A mobile application for personal daily prayers with custom add and edit features. | React Native, JavaScript | [Repo](https://github.com/gfr-31/my-prayer-app-android) |
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gifrancirebon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gfr-31&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gifrancirebon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfr-31&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -53,4 +51,4 @@ Some of the projects I've built for practice and exploration:
 
 * **Email:** gifrancirebon@gmail.com
 * **Instagram:** [@_fazreall](https://instagram.com/_fazreall)
-* **GitHub:** [@gifrancirebon](https://github.com/gifrancirebon)
+* **GitHub:** [@gfr-31](https://github.com/gfr-31)
