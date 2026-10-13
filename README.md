@@ -38,11 +38,11 @@ Beberapa project yang pernah saya buat untuk latihan dan eksplorasi:
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gifrancirebon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gfr-31&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gifrancirebon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfr-31&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
